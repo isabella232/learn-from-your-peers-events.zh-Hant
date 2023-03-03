@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「 [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 665f73494d34266d2f581d701b400aae96405b9b
+source-git-commit: b434237a678e938db8d99796def77ce92902738c
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '56'
 ht-degree: 25%
 
 ---
@@ -28,3 +28,6 @@ ht-degree: 25%
          + [可能的文檔任務](analytics/june2022/mission-possible.md)
       +  年 3 月{#mar2022}
          + [使用資料講述影響力的故事](analytics/mar2022/stories-with-data.md)
++ Marketo {#marketo}
+   +  年 3 月{#mar2023}
+      + [如何讓 [!DNL Adobe Marketo Engage] 內容可縮放](marketo/mar2023/templates-tokens-teamwork.md)
