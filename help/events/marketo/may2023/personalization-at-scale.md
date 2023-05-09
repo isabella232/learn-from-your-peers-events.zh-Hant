@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 在此網路研討會中，您將學習：
 
 * 個人化為何重要？
-* 用於各個人化的關鍵使用案例和技術。 我們將教導您如何使用Marketo Engage中可用的功能和技術：代號、區段、動態內容與片段，以及Velocity指令碼。
+* 用於各個人化的關鍵使用案例和技術。 我們將教您如何使用Marketo Engage中可用的功能和技術：代號、區段、動態內容與片段，以及Velocity指令碼。
 * 進階Velocity指令碼使用案例，包括使用自訂物件來源的資料製作個人化內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)
