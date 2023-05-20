@@ -1,6 +1,6 @@
 ---
-title: 資料品質與採用
-description: 了解如何將資料品質建置到Adobe Analytics的每個層面，並圍繞其建立共用文化。
+title: 資料質量和採用
+description: 瞭解如何將資料質量構建到Adobe Analytics的各個方面並圍繞其建立共用文化。
 solution: Analytics
 role: User
 doc-type: Event
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 資料品質和採用 [!DNL Analytics]
+# 資料質量和採用 [!DNL Analytics]
 
-公司已將資料確定為未來業務成功的關鍵推動因素。 為此，需要高水準的資料品質和採用成熟的資料堆疊。 了解如何將資料品質建置到 [!DNL Adobe Analytics] 並圍繞它建立一種共同的文化。
+公司已確定資料是未來業務成功的關鍵推動因素。 要實現這一點，需要高級別的資料質量和採用成熟的資料堆棧。 瞭解如何將資料質量構建到 [!DNL Adobe Analytics] 並圍繞它創造一種共同的文化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 使用資料訴說有影響力的故事
-description: 加入 [!DNL Adobe Analytics] Champion Amy Ard解釋了藝術和科學如何結合在一起講述一個強大的故事並幫助貴公司做出資料驅動的決策。
+description: 加入 [!DNL Adobe Analytics] Champion Amy Ard在解釋藝術和科學如何能夠結合在一起講述一個強有力的故事並幫助你的公司做出資料驅動的決策。
 solution: Analytics
 role: User
 doc-type: Event
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # 使用資料訴說有影響力的故事
 
-資料是組織可以依賴的最強大工具之一，但前提是資料以對決策者至關重要的方式呈現。 加入 [!DNL Adobe Analytics] Champion Amy Ard解釋了藝術和科學如何結合在一起講述一個強大的故事並幫助貴公司做出資料驅動的決策。
+資料是組織可以依賴的最強大工具之一，但前提是資料以對決策者很重要的方式呈現。 加入 [!DNL Adobe Analytics] Champion Amy Ard在解釋藝術和科學如何能夠結合在一起講述一個強有力的故事並幫助你的公司做出資料驅動的決策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)
